@@ -1,0 +1,28 @@
+baseURL = "https://itsec.re"
+languageCode = "en-us"
+title = "itsec.re"
+theme = "m10c"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About me"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 2
+
+[params]
+  author = "msm"
+  description = "IT Security & Reverse Engineering"
+  avatar = "images/avatar.png"
+  favicon = "images/favicon.png"
+  menu_item_separator = "<br>"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
