@@ -1,4 +1,4 @@
-FROM klakegg/hugo:0.82.0 as hugo
+FROM klakegg/hugo:0.107.0-ext as hugo
 
 WORKDIR /src
 COPY . .
