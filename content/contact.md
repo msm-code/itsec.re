@@ -9,7 +9,7 @@ Feel free to contact me if you're interested in working with me.
 
 Name: Jarosław Jedynak<br>
 Email: <a href="mailto:admin@itsec.re">admin@itsec.re</a><br>
-GPG key: <a href="/static/itsec_re.asc">itsec_re.asc</a>
+GPG key: <a href="/static/itsec_re.asc">itsec_re.asc</a> <span style="font-family: monospace">1E72 83C0 3393 0D00 A1E8 2593 33FB 7A32 3F33 E82A</span><br>
 
 ---
 
@@ -19,7 +19,7 @@ GPG key: <a href="/static/itsec_re.asc">itsec_re.asc</a>
         ul. Chmielna 2/31<br>
         Warszawa 00-020<br>
         Poland</p>
-    <p style="float: right; width: 50%">NIP: 1133098240<br>REGON: not assigned yet</p>
+    <p style="float: right; width: 50%">NIP: 1133098240<br>REGON: 525491939</p>
   </div>
 </div>
 

@@ -7,19 +7,15 @@ slug: "about"
 
 I’m an IT Security expert with a specialization in low level security and
 malware reverse engineering.
-I also work with containers (especially Kubernetes), both as an administrator
+I also work with containers (especially Kubernetes), as an administrator
 and as a security specialist.
 I have strong background in programming, and the widely understood IT security
 in general.
 
-In case it matters: I have a top secret Polish and NATO security clearances.
-
-The following is a non-exhaustive list of things I'm happy to work on as a
-part of <a href="https://itsec.re">itsec.re</a> company. If you have some other
-work in mind, and you think I may be a good fit, feel free to
-<a href="/contact">contact me</a>.
-
 My personal website is <a href="https://tailcall.net">https://tailcall.net</a>.
+
+Learn more about my trainings at <a href="https://learn.itsec.re">https://learn.itsec.re</a>.
+
 
 <div class="card">
   <div class="container">
@@ -64,6 +60,11 @@ My personal website is <a href="https://tailcall.net">https://tailcall.net</a>.
     and 2 day workshops offered.</p>
   </div>
 </div> 
+
+If you have some other work in mind, and you think I may be a good fit,
+feel free to <a href="/contact">contact me</a>.
+
+In case it matters: I have a top secret Polish and NATO security clearances.
 
 <style>
 /* inspired by https://www.w3schools.com/howto/howto_css_cards.asp */
